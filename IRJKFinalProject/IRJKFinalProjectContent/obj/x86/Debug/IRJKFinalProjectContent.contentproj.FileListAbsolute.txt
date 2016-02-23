@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProjectContent\obj\x86\Debug\IRJKFinalProjectContent.contentprojResolveAssemblyReference.cache
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProjectContent\obj\x86\Debug\IRJKFinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProjectContent\obj\x86\Debug\IRJKFinalProjectContent.contentprojResolveAssemblyReference.cache
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProjectContent\obj\x86\Debug\IRJKFinalProjectContent.contentprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProjectContent\obj\x86\Debug\IRJKFinalProjectContent.contentprojResolveAssemblyReference.cache

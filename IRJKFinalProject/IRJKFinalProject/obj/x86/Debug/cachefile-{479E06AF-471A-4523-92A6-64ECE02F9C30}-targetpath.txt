@@ -1,0 +1,17 @@
+Content\Images\PlayerShip.xnb
+Content\Images\bullet.xnb
+Content\Images\enemy.xnb
+Content\Fonts\hilightFont.xnb
+Content\Fonts\regularFont.xnb
+Content\Fonts\titleFont.xnb
+Content\Images\About.xnb
+Content\Images\backgroundSpace.xnb
+Content\Images\debrisTrans.xnb
+Content\Images\helpImage.xnb
+Content\Images\enemyDeath.xnb
+Content\Images\shipTurret.xnb
+Content\Images\credits.xnb
+Content\Images\howToPlay.xnb
+Content\Images\TitleNameArt.xnb
+Content\Sounds\SpaceShooter.xnb
+Content\Sounds\SpaceShooter.wma

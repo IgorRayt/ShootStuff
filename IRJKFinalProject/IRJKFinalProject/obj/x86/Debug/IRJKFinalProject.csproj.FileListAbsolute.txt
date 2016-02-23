@@ -1,0 +1,55 @@
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.exe
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.exe
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShip.xnb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShip.xnb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.exe
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.pdb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.csprojResolveAssemblyReference.cache
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.exe
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.pdb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShipGun.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShip.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShipGun.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.exe
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.pdb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.exe
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.pdb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShip.xnb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShipGun.xnb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.exe
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.pdb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.csprojResolveAssemblyReference.cache
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.exe
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.pdb
+G:\PROG2370 Objected Oriented Gam\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.exe
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\PlayerShip.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\bullet.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.exe
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\IRJKFinalProject.pdb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\obj\x86\Debug\IRJKFinalProject.pdb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\enemy.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Fonts\hilightFont.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Fonts\regularFont.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Fonts\titleFont.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\About.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\backgroundSpace.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\debrisTrans.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\helpImage.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\enemyDeath.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\shipTurret.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\credits.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\howToPlay.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Images\TitleNameArt.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Sounds\SpaceShooter.xnb
+C:\Users\Igor\Desktop\Study\PROG2370 Object Oriented Gaming\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\IRJKFinalProject\bin\x86\Debug\Content\Sounds\SpaceShooter.wma
